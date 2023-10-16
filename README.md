@@ -2,9 +2,12 @@
 
 - 👩🏿‍💻 Quality Engineer @Sicredi 💚
 - 🔭 Atualmente trabalho com testes manuais/funcionais e automatizados.
-- 🚀 Formada em Análise e Desenvolvimento de Sistemas.
-- 💬 Pronomes: She/Her
-- 🌱 Em constante aprendizado
+- 🚀 Frameworks: Cypress - Selenium - TestNG.
+- 🚀 Ferramentas: Gradle - Maven.
+- 🚀 Bibiotecas: RestAssured - Java Faker - Lombok - Hamcrest - TM4J - Allure Report.
+- 🚀 Linguagens e Plataformas: Postman - Java - SQL - JavaScript.
+- 💬 Pronomes: She/Her.
+- 🌱 Em constante aprendizado...
 
 Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando no linkedin ou gmail.
  
